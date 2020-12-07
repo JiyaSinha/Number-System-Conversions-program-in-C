@@ -32,7 +32,7 @@ int main()
         rev=rev/10;
     }
     dec_+=dec;
-    printf("the octal equivalent=%f",dec_);
+    printf("the decimal equivalent=%f",dec_);
     return 0;
 }
 
